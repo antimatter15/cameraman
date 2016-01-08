@@ -1,17 +1,17 @@
-lena
+cameraman
 ====
-The [Lena test image](http://en.wikipedia.org/wiki/Lenna):
 
-<img src="https://raw.github.com/mikolalysenko/lena/master/lena.png">
+This is one of those popular test images, it's owned by MIT
+
+<img src="https://raw.github.com/antimatter15/cameraman/master/cameraman.png">
 
 Install
 =======
 
-    npm install lena
+    npm install cameraman
 
-### `require("lena")`
-An ndarray encoding the Lena test image
+### `require("cameraman")`
 
-Permissions
-===========
-Use of this 512x512 scan is "overlooked" and by implication permitted by Playboy.
+An ndarray encoding the cameraman test image.
+
+The image is 256x256 and grayscale
